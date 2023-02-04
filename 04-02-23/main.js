@@ -1,7 +1,7 @@
 // isPalindrome => 121, 232, ...
 
 // let isPalindrome = (x) => {
-// 	if(x > 0 && x < 10) {
+// 	if(x >= 0 && x < 10) {
 // 		return true;
 // 	}
 // 	else {
