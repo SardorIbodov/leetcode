@@ -25,3 +25,13 @@
 //   }
 //   return result;
 // };
+
+// a,b,c => increasing order
+// let a = 2, b = 3, c = 1;
+// if (a > b && a > c) {
+//   b > c ? console.log(c, b, a) : console.log(b, c, a);
+// } else if(b > a && b > c) {
+// 	a > c ? console.log(c, a, b) : console.log(a, c, b);
+// } else if(c > a && c > b) {
+// 	a > b ? console.log(b, a, c) : console.log(a, b, c);
+// } 
