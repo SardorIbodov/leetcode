@@ -35,3 +35,8 @@
 // } else if(c > a && c > b) {
 // 	a > b ? console.log(b, a, c) : console.log(a, b, c);
 // } 
+// const increasingOrder = (a, b, c) => {
+// 	let result = [];
+// 	result.push(a,b,c);
+// 	return result.sort((a, b) => a - b)
+// }
